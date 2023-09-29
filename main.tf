@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "ap-south-1" # Replace with your desired AWS region
-  access_key = "AKIA4RU37OCCFWAN247J"
-  secret_key = "/1qEN6TgMNwi0wnUGZiowafGgQBfQgxtXtyjtESS"
+  access_key = "AKIA4RU37OCCAIZGDLZO"
+  secret_key = "/VHkBERWsrjj7quBFNbRR0osOY9WPp5+cw4fj7Bt"
 }
 
 resource "aws_instance" "kong-terraform" {
